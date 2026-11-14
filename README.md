@@ -32,9 +32,7 @@ Aplikasi Flutter satu halaman (single page) yang menampilkan profil developer. D
 │   ├── images/
 │   │   └── profile.png
 │   └── screenshots/
-│       ├── screenshot1.png
-│       ├── screenshot2.png
-│       └── screenshot3.png
+│       └── screenshot1.png
 ├── lib/
 │   └── main.dart
 └── pubspec.yaml
