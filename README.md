@@ -31,7 +31,7 @@ Aplikasi Flutter satu halaman (single page) yang menampilkan profil developer. D
 │   │   └── Poppins-Bold.ttf
 │   ├── images/
 │   │   └── profile.png
-│   └── screenshots/        ← letakkan screenshot hasil aplikasi di sini
+│   └── screenshots/
 │       ├── screenshot1.png
 │       ├── screenshot2.png
 │       └── screenshot3.png
@@ -52,6 +52,5 @@ Aplikasi Flutter satu halaman (single page) yang menampilkan profil developer. D
 
 ## Catatan
 
-- Foto profil saat ini menggunakan placeholder dari Unsplash agar langsung tampil saat testing. Kamu bisa menggantinya dengan aset lokal.
 - Semua kode berada di satu file `lib/main.dart` sesuai ketentuan tugas.
 - Tema global (`ThemeData`) sudah diterapkan di `MaterialApp` untuk konsistensi warna dan font.
