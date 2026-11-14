@@ -20,11 +20,6 @@ Aplikasi Flutter satu halaman (single page) yang menampilkan profil developer. D
 
 ## Screenshots
 
-> **Cara menambahkan screenshot:**
-> 1. Jalankan aplikasi di emulator atau device.
-> 2. Simpan tangkapan layar ke folder `assets/screenshots/`.
-> 3. Ganti nama file di bawah sesuai nama file screenshot-mu.
-
 ![Screenshot 1](assets/screenshots/screenshot1.png)
 
 ## Struktur Project
